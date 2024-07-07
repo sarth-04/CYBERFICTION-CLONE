@@ -4,18 +4,47 @@ This GitHub project is a Cyberfiction Clone that utilizes GSAP and GSAP ScrollTr
 
 ![Preview](https://i.ibb.co/TvBcHG2/Preview.png)
 
-## Contribute and Improve Mobile UI
+## Project Overview
 
-If you want to contribute and improve the CSS for the mobile view, you can fork this repository and send a pull request. Here are the steps:
+This project is a clone of the Cyberfiction website, featuring advanced animations and interactive elements powered by GSAP and GSAP ScrollTrigger.
 
-1. **Fork this repository.**
-2. **Create a new branch for your changes.**
-3. **Make the changes to the CSS file for mobile view.**
-4. **Commit your changes and push the branch to your fork.**
-5. **Send a pull request to this repository.**
+## Features
 
-If you found this project helpful or interesting, please consider giving it a star ⭐️ on GitHub!
+- Smooth scrolling animations
+- Interactive elements with GSAP
+- Responsive design
 
-## Explore My Other Projects
+## Technologies Used
 
-Be sure to check out my other projects on [GitHub](https://github.com/vishal-dcode).
+- HTML5
+- CSS3
+- JavaScript
+- GSAP (GreenSock Animation Platform)
+- GSAP ScrollTrigger
+
+## Installation
+
+To get a local copy up and running, follow these steps:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/vishal-dcode/Cyberfiction-Clone.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Cyberfiction-Clone
+    ```
+3. Open `index.html` in your browser to view the project.
+
+## Dependencies
+
+This project relies on the following dependencies:
+
+- GSAP: ^3.0.0
+- GSAP ScrollTrigger: ^3.0.0
+
+You can install the dependencies using npm:
+
+```sh
+npm install gsap
+npm install gsap/ScrollTrigger
