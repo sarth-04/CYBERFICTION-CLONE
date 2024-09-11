@@ -48,3 +48,5 @@ You can install the dependencies using npm:
 ```sh
 npm install gsap
 npm install gsap/ScrollTrigger
+
+Code is mainly in HTML,CSS and JS
